@@ -1,0 +1,12 @@
+C:\Users\Renato\SkyDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\bin\Debug\Trabalho Interdisciplinar.exe.config
+C:\Users\Renato\SkyDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\bin\Debug\Trabalho Interdisciplinar.exe
+C:\Users\Renato\SkyDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\bin\Debug\Trabalho Interdisciplinar.pdb
+C:\Users\Renato\SkyDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\obj\Debug\Trabalho Interdisciplinar.csprojResolveAssemblyReference.cache
+C:\Users\Renato\SkyDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\obj\Debug\Trabalho Interdisciplinar.exe
+C:\Users\Renato\SkyDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\obj\Debug\Trabalho Interdisciplinar.pdb
+C:\Users\Renato\OneDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\bin\Debug\Trabalho Interdisciplinar.exe.config
+C:\Users\Renato\OneDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\obj\Debug\Trabalho Interdisciplinar.exe
+C:\Users\Renato\OneDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\obj\Debug\Trabalho Interdisciplinar.pdb
+C:\Users\Renato\OneDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\bin\Debug\Trabalho Interdisciplinar.exe
+C:\Users\Renato\OneDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\bin\Debug\Trabalho Interdisciplinar.pdb
+C:\Users\Renato\OneDrive\Projetos C#\Trabalho Interdisciplinar\Trabalho Interdisciplinar\obj\Debug\Trabalho Interdisciplinar.csprojResolveAssemblyReference.cache
